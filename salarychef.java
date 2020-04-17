@@ -47,4 +47,5 @@ public class salarychef {
 		sc.close();
 	}
 }
+//or you can also do the following....
 //or sum of all the employee's salary - no of workers*minimum salary of any employee
