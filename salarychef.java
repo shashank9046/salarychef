@@ -28,7 +28,6 @@ public class salarychef {
 					Arrays.fill(arr1, s);
 					for (int j = 0; j < w - 1; j++) {
 						arr[j] = arr[j] + 1;
-
 					}
 					c = c + 1;
 				}
