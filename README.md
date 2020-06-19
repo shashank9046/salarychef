@@ -7,6 +7,7 @@ Input
 The first line of the input contains an integer T denoting the number of test cases. The description of T test cases follows. The first line of each test case contains a single integer N denoting the number of workers. The second line contains N space-separated integers W1, W2, ..., WN denoting the salaries of the workers.
 
 Output
+
 For each test case, output a single line containing the minimum number of operations needed to equalize all workers.
 
 Constraints
